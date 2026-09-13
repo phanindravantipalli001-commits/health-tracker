@@ -1,7 +1,12 @@
-# Health Tracker
+# OriVane Health
 
-A local-first health tracking app built to grow phase by phase. All data is
-stored in the browser (IndexedDB) — nothing leaves the device, no accounts.
+One health record that grows with you. OriVane starts with the numbers your
+lab reports give you — vitamin deficiencies, diabetes markers — and adds a new
+piece of your health picture every phase, so what begins as a bloodwork log
+becomes the single place your health history lives over time.
+
+A local-first app: all data is stored in the browser (IndexedDB) — nothing
+leaves the device, no accounts.
 
 ## Phase 1: Bloodwork
 

@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div className="app-header">
-        <h1>Health Tracker</h1>
+        <h1>OriVane Health</h1>
       </div>
 
       {MODULES.length > 1 && (
